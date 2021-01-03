@@ -1,3 +1,6 @@
+## webpack相关配置及优化方案
+- [webpack相关配置及优化方案：https://github.com/lhx196/webpack.config](https://github.com/lhx196/webpack.config).
+
 ## 目录结构  
 src目录:为业务打包代码  
 bundle.js:手写webpack打包过程代码（版本1）  
